@@ -1,0 +1,31 @@
+#naglowek {
+    background-color: rgb(113, 113, 174); /* ciemnogranatowe tło */
+    color: #531111;             /* biały tekst */
+    text-align: center;           /* wyśrodkowanie */
+    padding: 30px;                /* wewnętrzny odstęp*/
+    font-family: 'Arial', sans-serif; /* czcionka */
+    letter-spacing: 2px;          /* odstęp między literami */
+}
+
+#naglowek h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+    }
+
+#naglowek p {
+    font-size: 14px;
+    font-style: italic;
+    color: #ddd;
+    }
+
+#baner {
+    background-image: url('https://i.etsystatic.com/42415510/r/il/d1e861/5761455247/il_fullxfull.5761455247_13un.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: #16a085;
+    color: #ffffff;
+    text-align: center;
+    padding: 60px 20px;
+    text-shadow: 2px 2px 4px #000000;
+    }   
